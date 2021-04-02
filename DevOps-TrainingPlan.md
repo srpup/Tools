@@ -1,3 +1,9 @@
+`Timings`: 
+
+Monday to Friday
+
+7:30AM to 8:30AM IST
+
 ## DevOps Tools in our course:
 
 `OS`: Linux
