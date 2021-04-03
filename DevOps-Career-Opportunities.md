@@ -12,14 +12,14 @@ Infrastructure Management/Automation/Cloud Operations(CloudOps), Infrastructure 
 	Container plaform management tools:  helm, openshift, EKS(AWS), GKE(GCP), AKS(Azure) etc
 	Monitoring: Grafana, ELK etc
 
-Build and Deployument(CI/CD) DevOps:
+Build and Deployment(CI/CD) DevOps:
 ------------------------------------
 
 Build Engineer, Build and Release engineer, Build and deployment engineer etc
 
 	Build: Maven
 	VC: GitHub
-	CICD: Jenkins
+	CICD: Jenkins (Jenkins Pipeline Script)
 	Repo Manager: Nexus
 	Quality check: Sonarqube
 	Application server: Tomcat
