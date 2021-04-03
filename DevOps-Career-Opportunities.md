@@ -25,3 +25,5 @@ Build Engineer, Build and Release engineer, Build and deployment engineer etc
 	Application server: Tomcat
 	Test Automation: Selenium
 	IDE: Eclipse
+	Containerization: Docker (Dokcerfile)
+	Container Orchestration: Kubernetes (Manifest files)
