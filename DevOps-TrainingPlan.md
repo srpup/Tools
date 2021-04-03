@@ -4,6 +4,8 @@ Monday to Friday
 
 7:30AM to 8:30AM IST
 
+Note: Every new tool starts on Monday/Tuesday/Wednesday only.
+
 ## DevOps Tools in our course:
 
 `OS`: Linux
