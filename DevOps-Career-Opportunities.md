@@ -30,5 +30,10 @@ Build Engineer, Build and Release engineer, Build and deployment engineer etc
 
 Where to focus:
 
-	Jenkins, Git, docker, kubernetes, ansible, terraform, AWS
+Should have strong knowledge:
 
+	Jenkins, Git, docker, kubernetes, terraform, AWS
+
+Should have some basic knowledge:
+
+	Maven, Nexus, ansible, Grafana, ELK 
