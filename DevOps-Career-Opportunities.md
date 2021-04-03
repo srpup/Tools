@@ -27,3 +27,8 @@ Build Engineer, Build and Release engineer, Build and deployment engineer etc
 	IDE: Eclipse
 	Containerization: Docker (Dokcerfile)
 	Container Orchestration: Kubernetes (Manifest files)
+
+Where to focus:
+
+	Jenkins, Git, docker, kubernetes, ansible, terraform, AWS
+
