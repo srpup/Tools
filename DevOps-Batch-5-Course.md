@@ -1,4 +1,3 @@
-*Time*: 7:30AM IST to 8:30 AM IST (Monday to Friday)
 
 ### DevOps Course Content:
 
