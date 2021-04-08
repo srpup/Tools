@@ -1,6 +1,6 @@
 *Time*: 7:30AM IST to 8:30 AM IST (Monday to Friday)
 
-*DevOps Course Content*: Java  (40+ hrs)
+### DevOps Course Content:
 
 *Technologies*: Java
 
