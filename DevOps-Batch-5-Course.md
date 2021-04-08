@@ -8,7 +8,7 @@
 
 *Cloud*: AWS - 10 hrs
 
-	- EC2(Volumes, AMI,LB,ASG)
+	- EC2(Volumes,AMI,LB,ASG)
 	- IAM
 	- S3
 	- VPC
@@ -16,7 +16,13 @@
 	- Route53
 	- CloudFormation
 
-*Infrastructure Automation*: Terraform - 2 hrs 
+*Infrastructure Automation*: Terraform - 2 hrs
+	
+	- Installation and examples
+	- Core concepts and components of Terraform
+	- Creating, changing and destroying resources with Terraform
+	- Automating AWS infrastructure like EC2, VPC, Subnet, Security Group, Route Table etc
+	- Terraform commands, terraform state, variables, output values, environment variables
 
 *Configuration Managemement*: Ansisble - 3 hrs
 
@@ -31,17 +37,20 @@
 
 	- git commands-1
 	- git commands-2
-	- github management
+	- branching and tagging stratagies
+	- git admin activities
+	- git CI/CD
 
 *Build Tools*: Java: Maven - 2 hrs
 
-	- Maven basics
+	- Maven instalation and setup
+	- Maven project setup
 	- Lifecycle phases
 
 *CI/CD tools*: Jenkins - 7 to 10 hrs
 
 	- Installation and setup
-	- Integration with git, maven, and other tools
+	- Integration with git, maven, ansible and other tools
 	- Jobs setup (freestyle, pipeline etc)
 	- Manage Jenkins (Configure System, Plugins, Global tools Configuration, etc)
 	- Jenkins Pipeline Script
@@ -54,7 +63,7 @@
 
 *Containarization tools*: docker - 5 hrs
 
-	- docker archesture
+	- docker architecture
 	- dockerfile
 	- docker commands
 	- docker images, containers
@@ -64,7 +73,7 @@
 
 *Container management tools (Container Orchestration)*: docker swarm, kubernetes etc - 5 to 8 hrs
 
-	- kubernetes archetecture
+	- kubernetes architecture
 	- k8s cluster setup (single node cluster, multi node cluster)
 	- k8s concepts - deployment, pod, node, statefulset, daemonset, replica set, service,  Autoscaling, Nodeport, Ingress, cluserIp etc.
 	- kubectl commands
