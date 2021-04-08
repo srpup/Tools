@@ -1,12 +1,12 @@
-Time: 7:30AM IST to 8:30 AM IST (Monday to Friday)
+*Time*: 7:30AM IST to 8:30 AM IST (Monday to Friday)
 
-Course Content: Java DevOps (40+ hrs)
+*DevOps Course Content*: Java  (40+ hrs)
 
-Technologies: Java
+*Technologies*: Java
 
-OS : Linux 3 hrs
+*OS*: Linux - 3 hrs
 
-Cloud: AWS - 10 hrs
+*Cloud*: AWS - 10 hrs
 
 	- EC2(Volumes, AMI,LB,ASG)
 	- IAM
@@ -16,9 +16,10 @@ Cloud: AWS - 10 hrs
 	- Route53
 	- CloudFormation
 
-Infrastructure Automation: Terraform - 2 hrs 
+*Infrastructure Automation*: Terraform - 2 hrs 
 
-Configuration Managemement: Ansisble - 3 hrs
+*Configuration Managemement*: Ansisble - 3 hrs
+
 	- Ansible archetecture
 	- Inventory files
 	- Ad-hoc commands
@@ -26,31 +27,32 @@ Configuration Managemement: Ansisble - 3 hrs
 	- Roles
 	- Vault
 
-Version Control: GitHub - 3 hrs
+*Version Control*: GitHub - 3 hrs
 
 	- git commands-1
 	- git commands-2
 	- github management
 
-Build Tools: Java: Maven - 2 hrs
+*Build Tools*: Java: Maven - 2 hrs
 
 	- Maven basics
 	- Lifecycle phases
 
-CI/CD tools : Jenkins - 7 hrs
+*CI/CD tools*: Jenkins - 7 to 10 hrs
+
 	- Installation and setup
 	- Integration with git, maven, and other tools
 	- Jobs setup (freestyle, pipeline etc)
 	- Manage Jenkins (Configure System, Plugins, Global tools Configuration, etc)
 	- Jenkins Pipeline Script
 
-Code Quality(Code Scanner): SonarQube - 1 hr
+*Code Quality(Code Scanner)*: SonarQube - 1 hr
 
-Repo manager(package manager)/ library manager: Nexus - 1 hr
+*Repo manager(package manager)/ library manager*: Nexus - 1 hr
 
-Application servers: Tomcat - 1 hr
+*Application servers*: Tomcat - 1 hr
 
-Containarization tools: docker - 5 hrs
+*Containarization tools*: docker - 5 hrs
 
 	- docker archesture
 	- dockerfile
@@ -60,7 +62,7 @@ Containarization tools: docker - 5 hrs
 	- docker hub/regiastry
 	- docker machine and swarm
 
-Container management tools (Container Orchestration): docker swarm, kubernetes etc - 5 to 8 hrs
+*Container management tools (Container Orchestration)*: docker swarm, kubernetes etc - 5 to 8 hrs
 
 	- kubernetes archetecture
 	- k8s cluster setup (single node cluster, multi node cluster)
@@ -68,7 +70,7 @@ Container management tools (Container Orchestration): docker swarm, kubernetes e
 	- kubectl commands
 	- minikube, kubeadm, kops etc
 
-Monitoring tools: 3 hrs
+*Monitoring tools*: 3 hrs
 
 	server monitoring tools: Grafana 
 
