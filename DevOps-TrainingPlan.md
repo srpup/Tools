@@ -2,7 +2,7 @@
 
 Monday to Friday
 
-7:30AM to 8:30AM IST
+8:30 AM to 9:30 AM IST
 
 Note: Every new tool starts on Monday/Tuesday/Wednesday only.
 
