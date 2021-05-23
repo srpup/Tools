@@ -15,7 +15,7 @@ Infrastructure Management/Automation/Cloud Operations(CloudOps), Infrastructure 
 Build and Deployment(CI/CD) DevOps:
 ------------------------------------
 
-Build Engineer, Build and Release engineer, Build and deployment engineer etc
+Build Engineer, Deployment engineer, Build and Release engineer, Build and deployment engineer etc
 
 	Build: Maven
 	VC: GitHub
