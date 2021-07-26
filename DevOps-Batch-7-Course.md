@@ -1,6 +1,8 @@
 
 ### DevOps Course Content:
 
+Interested guys to join DevOps online training, please contact: 9966960045/9032440040 (WhatsApp)
+
 *Technologies*: Java
 
 *OS*: Linux - 3 hrs
