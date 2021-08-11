@@ -3,7 +3,7 @@
 
 Interested guys to join DevOps **WEEKEND** online training, please contact: 9966960045/9032440040 (call/WhatsApp)
 
-*Technologies*: Java
+*Technology*: Java
 
 *OS*: Linux - 3 hrs
 
