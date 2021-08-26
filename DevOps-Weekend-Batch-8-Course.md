@@ -7,7 +7,7 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *OS*: Linux - 3 hrs
 
-*Cloud*: ~~AWS~~   Azure - 10 hrs
+*Cloud*: AWS - 10 hrs
 
 *Infrastructure Automation*: Terraform - 2 hrs
 	
@@ -26,7 +26,7 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 	- Roles
 	- Vault
 
-*Version Control*: ~~GitHub~~   GitLab - 3 hrs
+*Version Control*: GitLab - 3 hrs
 
 	- git commands-1
 	- git commands-2
@@ -34,7 +34,7 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 	- git admin activities
 	- git CI/CD
 
-*Build Tools*: Java: ~~Maven~~  gradle - 2 hrs
+*Build Tools*: Java: gradle - 2 hrs
 
 	- Maven instalation and setup
 	- Maven project setup
@@ -50,9 +50,9 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *Code Quality(Code Scanner)*: SonarQube - 1 or 2 hrs
 
-*Repo manager(package manager)/ library manager*: ~~Nexus~~  Jfrog Artifactory - 1 or 2 hrs
+*Repo manager(package manager)/ library manager*: Nexus/Jfrog Artifactory - 1 or 2 hrs
 
-*Application servers*: ~~Tomcat~~  JBoss or Weblogic - 1 hr
+*Application servers*: Tomcat/JBoss - 1 hr
 
 *Containarization tools*: docker - 5 hrs
 
