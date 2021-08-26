@@ -74,6 +74,8 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *Monitoring tools*: 3 hrs
 
+	log monitoring tools: ELK
+	
 	server monitoring tools: Grafana 
 
-	log monitoring tools: ELK
+	
