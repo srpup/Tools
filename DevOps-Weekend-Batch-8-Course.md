@@ -9,7 +9,7 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *Cloud*: AWS - 10 hrs
 
-*Infrastructure Automation*: Terraform - 2 hrs
+*Infrastructure Automation*: Terraform - 2 to 3 hrs
 	
 	- Installation and examples
 	- Core concepts and components of Terraform
