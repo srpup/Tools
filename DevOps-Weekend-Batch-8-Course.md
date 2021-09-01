@@ -1,7 +1,7 @@
 
 ### DevOps Course Content:
 
-Interested guys to join DevOps **WEEKEND** online training, please contact: 9966960045 (call/WhatsApp)
+Interested guys to join DevOps **WEEKEND** online training, please contact: 9966960045/9032440040 (call/WhatsApp)
 
 *Technology*: Java
 
@@ -74,8 +74,9 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *Monitoring tools*: 3 hrs
 
-	log monitoring tools: ELK
+	log monitoring tools: ELK / Prometheus
 	
 	server monitoring tools: Grafana 
 
-	
+
+*Other concepts*: Azure DevOps - 3 hrs
