@@ -36,8 +36,8 @@ Interested guys to join DevOps **WEEKEND** online training, please contact: 9966
 
 *Build Tools*: Java: gradle - 2 hrs
 
-	- Maven instalation and setup
-	- Maven project setup
+	- Gradle instalation and setup
+	- Gradle project setup
 	- Lifecycle phases
 
 *CI/CD tools*: Jenkins - 7 to 10 hrs
